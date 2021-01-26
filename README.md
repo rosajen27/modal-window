@@ -13,7 +13,7 @@ A simple modal window, powered by JavaScript. A modal is a dialog box/popup wind
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/modal-number/
+Deployed Website: https://rosajen27.github.io/modal-window/
 
 ![one.png](./images/one.png)
 ![two.png](./images/two.png)
